@@ -1,20 +1,20 @@
 #!/bin/bash
 
-touch /root/createdFromStep2BackgroundScript
-touch /root/animaux
-touch /root/cafes
-touch /root/motos
+touch /root/createdFromStep2BackgroundScript > /dev/null 2>&1
+touch /root/animaux > /dev/null 2>&1
+touch /root/cafes > /dev/null 2>&1
+touch /root/motos > /dev/null 2>&1
 
-echo -e "Triumph" >> /root/motos
-echo -e "Yamaha" >> /root/motos
-echo -e "Suzuki" >> /root/motos
-echo -e "Pangolin" >> /root/animaux
-echo -e "Pandas" >> /root/animaux
-echo -e "Nounours" >> /root/animaux
-echo -e "Arabica" >> /root/cafes
+echo -e "Triumph" >> /root/motos > /dev/null 2>&1
+echo -e "Yamaha" >> /root/motos > /dev/null 2>&1
+echo -e "Suzuki" >> /root/motos > /dev/null 2>&1
+echo -e "Pangolin" >> /root/animaux > /dev/null 2>&1
+echo -e "Pandas" >> /root/animaux > /dev/null 2>&1
+echo -e "Nounours" >> /root/animaux > /dev/null 2>&1
+echo -e "Arabica" >> /root/cafes > /dev/null 2>&1
 
-mkdir /root/rep1
-mkdir /root/rep2
+mkdir /root/rep1 > /dev/null 2>&1
+mkdir /root/rep2 > /dev/null 2>&1
 
-touch /root/rep1/file
-touch /root/rep2/certificat
+touch /root/rep1/file > /dev/null 2>&1
+touch /root/rep2/certificat > /dev/null 2>&1
