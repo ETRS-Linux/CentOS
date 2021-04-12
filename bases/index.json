@@ -33,6 +33,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "nodejs:12"
+    "imageid": "bash"
   }
 }
