@@ -6,4 +6,4 @@ mkdir /root/rep2
 touch /root/rep1/file
 touch /root/rep2/certificat
 
-
+clear
