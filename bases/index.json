@@ -1,7 +1,7 @@
 {
   "title": "Les commandes de bases",
   "description": "Apprendre les commandes de bases Linux",
-  "difficulty": "Beginner",
+  "difficulty": "Débutant",
   "time": "10 minutes",
   "details": {
     "steps": [
@@ -29,6 +29,7 @@
       "text": "finish.md"
     }
   },
+  "files": [],
   "environment": {
     "uilayout": "terminal"
   },
