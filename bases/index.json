@@ -22,7 +22,7 @@
       }
     ],
     "intro": {
-      "code": "background.sh",
+      "code": "background.sh >& /dev/null",
       "text": "intro.md",
       "credits": ""
     },
