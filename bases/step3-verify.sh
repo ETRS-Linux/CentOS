@@ -1,2 +1,2 @@
-[ -d /root/rep1/certificat ] && echo "done"
-[ -d /root/rep2/file2 ] && echo "done"
+[ -d /root/rep1/certificat ]
+[ -d /root/rep2/file2 ]
