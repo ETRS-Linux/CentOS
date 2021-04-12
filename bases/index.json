@@ -12,14 +12,15 @@
       },
       {
         "title": "Copier, couper, coller",
-        "courseData": "step2-background.sh",
+        "code": "step2-background.sh",
         "text": "step2.md"
       },
       {
         "title": "Se déplacer, listing et affichage du répertoire courant",
-        "text": "step3.md",
+        "courseData": "step3-background.sh",
         "answer": "step3-answer.md",
-        "verify": "step3-verify.sh"
+        "verify": "step3-verify.sh",
+        "text": "step3.md"
       }
     ],
     "intro": {
@@ -29,7 +30,6 @@
       "text": "finish.md"
     }
   },
-  "files": [],
   "environment": {
     "uilayout": "terminal"
   },
