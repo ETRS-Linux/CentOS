@@ -1,4 +1,5 @@
 {
+  "noindex": true,
   "title": "Les commandes de bases",
   "description": "Apprendre les commandes de bases Linux",
   "difficulty": "Débutant",
@@ -15,7 +16,7 @@
       },
       {
         "title": "Se déplacer, listing et affichage du répertoire courant",
-        "courseData": "./step3-background.sh",
+        "courseData": "step3-background.sh",
         "answer": "step3-answer.md",
         "verify": "step3-verify.sh",
         "text": "step3.md"
@@ -25,14 +26,12 @@
       "text": "intro.md",
       "courseData": "background.sh",
       "code": "foreground.sh",
-      "credits": ""
+      "credits": "Cours STSI - ETRS Cesson Sévigné"
     },
-    "finish": {
-      "text": "finish.md"
-    }
   },
   "files": [],
   "environment": {
+    "hidefinish": true,
     "uilayout": "terminal"
   },
   "backend": {
