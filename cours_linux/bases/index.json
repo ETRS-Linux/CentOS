@@ -1,0 +1,41 @@
+{
+  "title": "Les commandes de bases",
+  "description": "Apprendre les commandes de bases Linux",
+  "difficulty": "Débutant",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Vim",
+        "text": "step1.md"
+      },
+      {
+        "title": "Copier, couper, coller",
+        "text": "step2.md"
+      },
+      {
+        "title": "Se déplacer, listing et affichage du répertoire courant",
+        "courseData": "./step3-background.sh",
+        "answer": "step3-answer.md",
+        "verify": "step3-verify.sh",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "background.sh",
+      "code": "foreground.sh",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "files": [],
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "bash"
+  }
+}
