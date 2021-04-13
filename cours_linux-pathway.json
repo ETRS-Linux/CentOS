@@ -1,0 +1,16 @@
+{
+  "title": "Les commandes de base Linux",
+  "description": "Apprendre les commandes de base Linux",
+  "courses": [
+    {
+      "course_id": "bases",
+      "title": "Les commandes de bases",
+      "description": "Apprendre les commandes de bases Linux"
+    },
+    {
+      "course_id": "test-scenario",
+      "title": "Titre du scénario",
+      "description": "Test de création de scénario katacoda"
+    }
+  ]
+}
