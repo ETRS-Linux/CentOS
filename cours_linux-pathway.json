@@ -21,13 +21,13 @@
       "course_id": "gestion_user",
       "title": "Créer, modifier et supprimer des utilisateurs",
       "description": "Apprendre la gestion des utilisateurs et connaître les fichiers associés aux commandes utilisées"
-    }
+    },
     {
       "course_id": "recherche",
       "title": "Apprendre à faire une recherche",
       "description": "Maîtriser les commandes permettant d'effectuer des recherches avec la commande 'find'"
     },
-        {
+    {
       "course_id": "gestion_droits",
       "title": "Gestion des droits sur les fichiers et répertoires",
       "description": "Manipuler les permissions des fichiers et des répertoires"
