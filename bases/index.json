@@ -7,7 +7,6 @@
     "steps": [
       {
         "title": "Vim",
-        "courseData": "step1_install-vim.sh",
         "text": "step1.md"
       },
       {
