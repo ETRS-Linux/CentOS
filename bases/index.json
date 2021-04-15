@@ -11,6 +11,7 @@
       },
       {
         "title": "Copier, couper, coller",
+        "code": "step2-background.sh",
         "text": "step2.md"
       },
       {
