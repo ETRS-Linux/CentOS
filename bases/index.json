@@ -23,7 +23,7 @@
       }
     ],
     "intro": {
-      "code": "background.sh",
+      "courseData": "background.sh",
       "text": "intro.md",
       "credits": ""
     },
