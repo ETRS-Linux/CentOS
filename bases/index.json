@@ -31,11 +31,10 @@
       "text": "finish.md"
     }
   },
-  "files": [],
   "environment": {
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "centos"
   }
 }
