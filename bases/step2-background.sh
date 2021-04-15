@@ -13,4 +13,3 @@ EOF
 
 chmod u+x /tmp/script1.sh
 /tmp/script1.sh
-clear
