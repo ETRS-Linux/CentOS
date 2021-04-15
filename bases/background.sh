@@ -1,17 +1,23 @@
+cat << EOF > /tmp/prepa_tp.sh
 #!/bin/sh
+clear
 echo "Préparation du TP en cours..."
-touch /root/motos &>/dev/null
-touch /root/animaux &>/dev/null
-touch /root/cafe &>/dev/null
+touch /root/motos 1>/dev/null 2>&1
+touch /root/animaux 1>/dev/null 2>&1
+touch /root/cafe 1>/dev/null 2>&1
 
-mkdir /root/rep1 &>/dev/null
-mkdir /root/rep2 &>/dev/null
-mkdir -p /BoiteAOutils/RPM &>/dev/null
+mkdir /root/rep1 1>/dev/null 2>&1
+mkdir /root/rep2 1>/dev/null 2>&1
+mkdir -p /BoiteAOutils/RPM 1>/dev/null 2>&1
 
-yum -y install tree --downloadonly --downloaddir=/BoiteAOutils/RPM/ &>/dev/null
+yum -y install tree --downloadonly --downloaddir=/BoiteAOutils/RPM/ 1>/dev/null 2>&1
 
-touch /root/rep1/file &>/dev/null
-touch /root/rep2/certificat &>/dev/null
-cd /root &>/dev/null
+touch /root/rep1/file 1>/dev/null 2>&1
+touch /root/rep2/certificat 1>/dev/null 2>&1
+cd /root 1>/dev/null 2>&1
 clear
 echo "Vous pouvez commencer le TP ! "
+EOF
+clear
+chmod u+x /tmp/prepa_tp.sh
+/tmp/prepa_tp.sh
