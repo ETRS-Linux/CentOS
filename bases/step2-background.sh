@@ -1,4 +1,4 @@
-
+clear
 cat << EOF > /tmp/script1.sh
 #!/bin/bash
 
@@ -13,3 +13,5 @@ EOF
 
 chmod u+x /tmp/script1.sh
 /tmp/script1.sh
+cd /root
+clear
