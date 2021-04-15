@@ -1,6 +1,5 @@
 echo "Script démarré au premier plan"
 
 pwd
-ls -lha
+ls -l
 
-clear
