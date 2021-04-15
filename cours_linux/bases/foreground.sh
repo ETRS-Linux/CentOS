@@ -1,4 +1,6 @@
-echo "This is automatically run when the scenario"
+echo "Script démarré au premier plan"
 
 pwd
 ls -lha
+
+clear
