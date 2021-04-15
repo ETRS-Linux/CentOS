@@ -12,7 +12,7 @@
       {
         "title": "Modifier un utilisateur avec la commande 'usermod'",
         "text": "step2.md"
-      },
+      }
     ],
     "intro": {
       "text": "intro.md",
