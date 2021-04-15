@@ -7,6 +7,7 @@
     "steps": [
       {
         "title": "Vim",
+        "courseData": "background.sh",
         "text": "step1.md"
       },
       {
@@ -23,7 +24,6 @@
       }
     ],
     "intro": {
-      "courseData": "background.sh",
       "text": "intro.md",
       "credits": ""
     },
