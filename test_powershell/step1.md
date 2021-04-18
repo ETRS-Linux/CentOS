@@ -1,1 +1,0 @@
-test pour cours et/ou tp en power shell
