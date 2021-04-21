@@ -2,7 +2,7 @@
 
 <h1>Apprendre à manipuler les commandes <code>ls</code> et <code>cd</code></h1>
 
-<p>Bonjour et bienvenue dans ce scénario pour vous aider à maîtriser les commande <span style="text-align: center; background-color:#dcdcdc; border-radius: 3px;"><code> ls </code></span> et <span style="background-color:#dcdcdc; border-radius: 3px;"><code>cd</code></span> sur Linux</p>
+<p>Bonjour et bienvenue dans ce scénario pour vous aider à maîtriser les commande  <span style="text-align: center; background-color:#dcdcdc; border-radius: 3px;"><code>ls</code></span>  et <span style="background-color:#dcdcdc; border-radius: 3px;"><code>cd</code></span> sur Linux</p>
 
 <p>Nous allons voir dans un premier temps la commande <span style="background-color:#dcdcdc; border-radius: 3px;"><code>ls</code></span> avec ces options les plus utilisées:</p>
 
