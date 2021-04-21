@@ -1,0 +1,35 @@
+{
+  "title": "Comment effectuer une redirection sur un fichier",
+  "description": "Apprendre à manipuler les redirections vers les sorties standards et d'erreurs",
+  "difficulty": "Débutant",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "La redirection sur sortie standard (simple et double)",
+        "text": "step1.md"
+      },
+      {
+        "title": "La redirection sur sortie d'erreur (simple et double)",
+        "text": "step2.md"
+      },
+      {
+        "title": "Les redirections simultanées sur sorties standard et erreur",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "Cours STSI - DGF/GIR"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "centos"
+  }
+}

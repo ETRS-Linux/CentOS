@@ -1,0 +1,31 @@
+{
+  "title": "Apprendre à faire une recherche",
+  "description": "Maîtriser les recherches de fichiers avec la commande 'find'",
+  "difficulty": "Débutant",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Effectuer une recherche simple avec la commande 'find'",
+        "text": "step1.md"
+      },
+      {
+        "title": "Effectuer une recherche avancée avec l'option '-exec' de la commande 'find'",
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "Cours STSI - DGF/GIR"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "centos"
+  }
+}
