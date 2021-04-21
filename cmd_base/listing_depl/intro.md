@@ -1,7 +1,6 @@
 <html><head></head><body>
 
-<h1>Apprendre à manipuler les commandes <div style="border-style:solid ; border-radius: 10px; width:30px; margin:auto; text-align:left;">
-<code>ls</code></div> et <code>cd</code></h1>
+<h1>Apprendre à manipuler les commandes <div style="border-style:solid ; border-radius: 10px; width:40px; margin:auto;"><code>ls</code></div> et <code>cd</code></h1>
 
 <p>Bonjour et bienvenue dans ce scénario pour vous aider à maîtriser les commande <span style="background-color:#dcdcdc;"><code>ls</code></span> et <span style="background-color:#dcdcdc;"><code>cd</code></span> sur Linux</p>
 
