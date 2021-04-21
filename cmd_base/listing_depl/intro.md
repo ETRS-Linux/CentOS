@@ -1,9 +1,6 @@
-<html>
-<head></head>
-<body>
-<h1 id="commandes-de-base">Apprendre à manipuler les commandes 'ls' et 'cd'</h1>
+<h1>Apprendre à manipuler les commandes <code>ls</code> et <code>cd</code></h1>
 
-<p>Bonjour et bienvenu dans ce scénario pour vous aider à maîtriser les commande <code>ls</code> et <code>cd</code> sur Linux</p>
+<p>Bonjour et bienvenue dans ce scénario pour vous aider à maîtriser les commande <code>ls</code> et <code>cd</code> sur Linux</p>
 
 <p>Nous allons voir dans un premier temps la commande ls avec ces options les plus utilisées:</p>
 
@@ -15,6 +12,3 @@
 </ul>
 
 <p>Puis nous allons apprendre à nous déplacer dans l'arborescence du système à l'aide de la commande <code>cd</code> pour 'change directory'.</p>
-
-</body>
-</html>
