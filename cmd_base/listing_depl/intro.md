@@ -1,3 +1,5 @@
+<html><head></head><body>
+
 <h1>Apprendre à manipuler les commandes <code>ls</code> et <code>cd</code></h1>
 
 <p>Bonjour et bienvenue dans ce scénario pour vous aider à maîtriser les commande <code>ls</code> et <code>cd</code> sur Linux</p>
@@ -12,3 +14,5 @@
 </ul>
 
 <p>Puis nous allons apprendre à nous déplacer dans l'arborescence du système à l'aide de la commande <code>cd</code> pour 'change directory'.</p>
+</body>
+</html>
