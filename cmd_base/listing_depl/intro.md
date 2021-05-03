@@ -13,6 +13,6 @@
 <li><span style="background-color:#dcdcdc; border-radius: 3px;"><code>-R</code></span>: affiche la liste des fichiers de mani&#xE8;re r&#xE9;cursive</li>
 </ul>
 
-<p>Et nous allons apprendre à nous déplacer dans l'arborescence du système, en méthode dite relative ou absolue, à l'aide de la commande <span style="background-color:#dcdcdc; border-radius: 3px;"><code>cd</code></span> pour 'change directory'.</p>
+<p>Et nous allons apprendre à nous déplacer dans l'arborescence du système, en méthode dite <span style="background-color:#dcdcdc; border-radius: 3px;"><code>relative</code></span> ou <span style="background-color:#dcdcdc; border-radius: 3px;"><code>absolue</code></span>, à l'aide de la commande <span style="background-color:#dcdcdc; border-radius: 3px;"><code>cd</code></span> pour 'change directory'.</p>
 </body>
 </html>
